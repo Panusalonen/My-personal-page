@@ -35,9 +35,6 @@ class Resume extends Component {
                     </Cell>
                     <Cell className="resume-right-col" col={8}>
                         <h2>Education</h2>
-
-
-
                         <Education
                             startYear={2008}
                             endYear={2013}
@@ -53,7 +50,6 @@ class Resume extends Component {
                             schoolDescription="Full-Stack Web Developer bootcamp course in Berlin. During the course I finished several projects with different development frameworks and libraries. Main focus on JavaScript (including ES6), HTML5/CCS3, Node+Express, React+Redux, Vue, Handlebars, PostgreSQL, Socket.io, Three.js, Canvas, Git, Heroku."
                         />
                         <hr style={{borderTop: "3px solid", width: "100%"}}/>
-
                         <h2>Experience</h2>
                         <Experience
                             startYear={2016}
