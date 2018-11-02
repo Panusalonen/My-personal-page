@@ -22,13 +22,18 @@ class Resume extends Component {
                         <hr style={{borderTop: "3px solid snow", width: "100%"}}/>
                         <p>Passionate to meet new people from different backgrounds. I have background in economics and entrepreneurship and recently turned a new page in my career as a developer.</p>
                         <p>I hope to join to an organization with a purposeful idea to which I could contribute with excitement. I am closely interested in sustainability as well as new technology and innovations.</p>
+                        <p>I am iterested mostly frontend development and user interfaces but can work with and will learn other methods too.</p>
+                        <p>I am a music enthusiast and I have been closely dealing with electoric music and its culture in Finland for about 10 years now.</p>
                         <hr style={{borderTop: "3px solid snow", width: "100%"}}/>
                         <h5>Address</h5>
                         <p>Dronheimer straße, Berlin GER</p>
+                        <hr style={{borderTop: "1px solid grey", width: "100%"}}/>
                         <h5>Phone</h5>
                         <p>+358 (0) 44 501 6610</p>
+                        <hr style={{borderTop: "1px solid grey", width: "100%"}}/>
                         <h5>Email</h5>
                         <p>panusalonen@gmail.com</p>
+                        <hr style={{borderTop: "1px solid grey", width: "100%"}}/>
                         <h5>Webpages</h5>
                         <p>https://www.linkedin.com/in/panusalonen<br/>https://www.github.com/panusalonen</p>
                         <hr style={{borderTop: "3px solid snow", width: "100%"}}/>
