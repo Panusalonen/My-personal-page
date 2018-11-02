@@ -1,0 +1,259 @@
+.header {
+    font-family: "Rubik";
+    background: linear-gradient(to right, purple, darkorange); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+
+    /* background: linear-gradient(to right, black, darkgrey); */
+}
+.mdl-layout-title {
+    font-family: "Rubik";
+}
+.header a:hover {
+    color: grey;
+}
+.header a {
+    font-family: "Rubik";
+    font-size: 1.2em;
+}
+.material-icons:hover {
+    color: grey;
+}
+
+/* LANDING */
+
+.landing-grid {
+    background: linear-gradient(to right, #78ffd6, #007991);
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.banner-text {
+    background-color: black;
+    opacity: 0.75;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.landing-image {
+    margin-top: 5em;
+    height: auto;
+    width: 30%;
+}
+.banner-text h1 {
+    font-size: 4em;
+    font-weight: bold;
+    color: snow;
+    font-family: "Oxygen";
+}
+.banner-text hr {
+    border-top: 0.25em solid snow;
+    width: 68%;
+    margin: auto;
+}
+.banner-text p {
+    font-family: "Oxygen";
+    font-size: 1em;
+    font-weight: bold;
+    color: snow;
+}
+.social-links {
+    margin: 0;
+}
+.social-links i {
+    color: snow;
+    transform: scale(1.5);
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.fa:hover {
+    color: darkgrey;
+}
+
+/* ABOUTME */
+
+.mdl-tabs__tab-bar a:hover {
+    color: black;
+}
+
+/* CONTACT OPTION */
+
+/* .contact-div {
+    height: auto;
+    background: linear-gradient(to right, #78ffd6, #007991);
+    font-family: "Rubik";
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contact-div h1 {
+    font-family: "Rubik";
+    margin: 0.59em;
+} */
+/* .contact-grid {
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    font-family: "Rubik";
+
+} */
+/*.form {
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.input {
+    margin: 0.25em;
+    font-size: 1em;
+    width: 100%;
+    height: 2em;
+}
+.input-area {
+    margin: 0.25em;
+    font-size: 1em;
+    width: 75%;
+    height: 2em;
+    border-style: none;
+}
+.text-area {
+    font-family: "Rubik";
+    margin-top: 0.25em;
+    font-size: 1em;
+    width: 75%;
+    height: 5em;
+    border-style: none;
+    resize: none;
+    width: 75%;
+}
+.button {
+    margin: 0.25em;
+    border-style: none;
+    width: 75.2%;
+    font-size: 1.5em;
+    height: 1.5em;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: darkgrey;
+}
+.my-details {
+    margin-top: 0.5em;
+    /* margin-bottom: 2em; */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.mdl-grid {
+    padding: 0;
+} */
+
+/* CONTACT CURRENT */
+
+.contact-div {
+    background: linear-gradient(to right, #78ffd6, #007991);
+    margin: auto;
+    /* background: snow; */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+    font-family: "Rubik";
+}
+.contact-div h1 {
+    font-family: "Rubik";
+    font-size: 3em;
+    margin: 0;
+    margin-bottom: 0.3em;
+}
+.contact-div p {
+    font-weight: lighter;
+}
+.contact-grid {
+    background: snow;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    height: 38em;
+    color: grey;
+    margin-bottom: 1.5em;
+    box-shadow: 0 0 5px black;
+}
+.contact-grid hr {
+    border-top: 5px solid grey;
+    width: 75%;
+    margin: auto;
+}
+
+/* CATEGORIES */
+
+.categry-tabs {
+    background: linear-gradient(to right, #78ffd6, #007991);
+}
+
+/* RESUME */
+
+.resume-right-col {
+    color: grey;
+    background: snow;
+    box-shadow: 0 0 5px black;
+    font-family: "Rubik";
+}
+.resume-right-col h2 {
+    font-family: "Rubik";
+    margin: 1em;
+}
+.resume-left-col {
+    font-family: "Rubik";
+    text-align: left;
+}
+.resume-left-col h2 {
+    font-family: "Rubik";
+}
+.resume-left-col hr {
+}
+
+/* SKILLS */
+
+.skills {
+    align-items: center;
+}
+
+/* ABOUT ME */
+
+.about-grid {
+    font-family: "Rubik";
+}
+.about-grid h2 {
+    font-family: "Rubik";
+    margin-bottom: 0.25em;
+}
+.about-pic {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.about-me {
+    background-color: snow;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 5px;
+}
+.info-text {
+    font-family: "Rubik";
+}
