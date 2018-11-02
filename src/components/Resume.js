@@ -21,7 +21,7 @@ class Resume extends Component {
                         <h4 style={{color: "grey"}}>Web Developer</h4>
                         <hr style={{borderTop: "3px solid snow", width: "100%"}}/>
                         <p>Passionate to meet new people from different backgrounds. I have background in economics and entrepreneurship and recently turned a new page in my career as a developer.</p>
-                        <p>I hope to join to an organization with a purposeful idea to which I could contribute with excitement. I'm closely interested in sustainability as well as new technology and innovations.</p>
+                        <p>I hope to join to an organization with a purposeful idea to which I could contribute with excitement. I am closely interested in sustainability as well as new technology and innovations.</p>
                         <hr style={{borderTop: "3px solid snow", width: "100%"}}/>
                         <h5>Address</h5>
                         <p>Dronheimer straße, Berlin GER</p>

@@ -7,7 +7,7 @@ class Contact extends Component {
             <div className="contact-div"style={{width: "100%", margin: "auto"}}>
                 <Grid className="contact-grid">
                 <Cell col={6}>
-                    <h1>Hey, It's me!</h1>
+                    <h1>Hey, It is me!</h1>
                     <img
                         alt="avatar"
                         src="../images/avatar.png"

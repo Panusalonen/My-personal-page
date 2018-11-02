@@ -29,7 +29,7 @@ class About extends Component {
                             <Cell col={6}>
                                 <div className="info-text">
                                     <h6>Welcome to my porftolio page! Here you can find information about myself, my work, my personal preferences and likes, etc.</h6>
-                                    <p>If you'd like to get more familiar with me - THAT'S AWESOME! I'd like that too. :) On the "contact" section you find multiple different ways to get in touch with me.</p>
+                                    <p>If you would like to get more familiar with me - THAT IS AWESOME! I would like that too. :) On the "contact" section you find multiple different ways to get in touch with me.</p>
                                 </div>
                             </Cell>
                         </div>
